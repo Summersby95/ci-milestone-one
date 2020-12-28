@@ -25,13 +25,42 @@ body {
   color: var(--white-text-color);
 }
 
-.hero-image {
-  background-color: green;
-  height: 90vh;
+.parallax {
+  background-image: url("../images/dots-background.png");
+  background-position: center;
+  background-repeat: repeat;
 }
 
-.nav-div {
-  background-color: orange;
+/* Background Color Classes */
+
+.light-white-background {
+  background-color: var(--light-white-bg-color);
+}
+
+.light-blue-background {
+  background-color: var(--light-blue-bg-color);
+  border: 2px solid var(--blue-text-color);
+  color: var(--blue-text-color);
+}
+
+.light-blue-background:hover {
+  background-color: var(--light-yellow-bg-color);
+  border-color: var(--yellow-text-color);
+  color: var(--yellow-text-color);
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Audiowide", sans-serif;
+}
+
+/* Header and Nav */
+
+.hero-image {
+  height: 90vh;
+  border-bottom: 3px solid var(--blue-text-color);
+}
+
+
   height: 10vh;
 }
 
