@@ -11,4 +11,9 @@ body {
   height: 90vh;
 }
 
+.nav-div {
+  background-color: orange;
+  height: 10vh;
+}
+
 }
