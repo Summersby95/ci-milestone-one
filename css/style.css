@@ -61,11 +61,19 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 
+
+.nav-div-outer {
   height: 10vh;
 }
 
 .logo-image {
-  height: 90%;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.test {
+  height: 2000px;
 }
 
 .logo-image-div {
