@@ -28,3 +28,8 @@ Force persuade text
 Logo of the game, characters background. Concept art.
 
 Dialog text style.
+
+
+##### Stephen - Potential User
+
+Poll, page gets lighter, darker depending on results.
