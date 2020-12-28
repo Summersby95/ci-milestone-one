@@ -28,4 +28,8 @@ body {
   height: 20%;
 }
 
+@media(min-width: 768px) {
+  .hero-image {
+    height: 30vh;
+  }
 }
