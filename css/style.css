@@ -5,4 +5,10 @@ body {
   background-position: center;
   background-repeat: repeat;
 }
+
+.hero-image {
+  background-color: green;
+  height: 90vh;
+}
+
 }
