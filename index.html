@@ -11,6 +11,42 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" integrity="sha512-csw0Ma4oXCAgd/d4nTcpoEoz4nYvvnk21a8VA2h2dzhPAvjbUIK6V3si7/g/HehwdunqqW18RwCJKpD7rL67Xg==" crossorigin="anonymous" />
   <link rel="stylesheet" href="css/style.css">
   <title>Knights of The Old Republic - Remaster Petition</title>
+  <script>
+    window.onload = function () {
+      var light_100_answer = document.getElementById('light_100_answer');
+      var light_75_answer = document.getElementById('light_75_answer');
+      var dark_100_answer = document.getElementById('dark_100_answer');
+      var dark_75_answer = document.getElementById('dark_75_answer');
+
+      var light_bar = document.getElementById('light-bar');
+      var dark_bar = document.getElementById('dark-bar');
+      var result_text = document.getElementById('result-text');
+
+      light_100_answer.addEventListener('click', function() {
+        light_bar.style.width = "100%";
+        dark_bar.style.width = "0%";
+        result_text.innerHTML = "'The Force will be with you. Always.' - <i>Obi Wan Kenobi</i>";
+      });
+
+      light_75_answer.addEventListener('click', function() {
+        light_bar.style.width = "75%";
+        dark_bar.style.width = "25%";
+        result_text.innerHTML = "'Do. Or do not. There is no try.' - <i>Yoda</i>";
+      });
+
+      dark_100_answer.addEventListener('click', function() {
+        light_bar.style.width = "0%";
+        dark_bar.style.width = "100%";
+        result_text.innerHTML = "'Did you ever hear the tragedy of Darth Plagueis The Wise?' - <i>Emperor Palpatine</i>";
+      });
+
+      dark_75_answer.addEventListener('click', function() {
+        light_bar.style.width = "25%";
+        dark_bar.style.width = "75%";
+        result_text.innerHTML = "'I find your lack of faith disturbing.' - <i>Darth Vader</i>";
+      });
+    }
+  </script>
 </head>
 <body>
   <div class="parallax">
