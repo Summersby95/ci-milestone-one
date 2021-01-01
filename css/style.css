@@ -92,10 +92,11 @@ h1,h2,h3,h4,h5,h6 {
 
 .nav-div-outer {
   height: 10vh;
+  margin-bottom: 20px;
 }
 
 .logo-image {
-  height: auto;
+  height: 100%;
   max-width: 100%;
   vertical-align: middle;
 }
