@@ -59,6 +59,11 @@ body {
   color: var(--green-text-color);
 }
 
+.light-green-background:hover {
+  background-color: var(--light-yellow-bg-color);
+  border-color: var(--yellow-text-color);
+  color: var(--yellow-text-color);
+}
 h1,h2,h3,h4,h5,h6 {
   font-family: "Audiowide", sans-serif;
 }
