@@ -227,4 +227,11 @@ h1,h2,h3,h4,h5,h6 {
   left: -13px;
 }
 
+.event {
+  padding: 20px 30px;
+  /* background-color: var(--light-white-bg-color); */
+  border-radius: 6px;
+  position: relative;
+}
+
 }
