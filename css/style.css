@@ -53,6 +53,12 @@ body {
   color: var(--yellow-text-color);
 }
 
+.light-green-background {
+  background-color: var(--light-green-bg-color);
+  border: 2px solid var(--green-text-color);
+  color: var(--green-text-color);
+}
+
 h1,h2,h3,h4,h5,h6 {
   font-family: "Audiowide", sans-serif;
 }
