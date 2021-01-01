@@ -140,6 +140,13 @@ h1,h2,h3,h4,h5,h6 {
   text-transform: uppercase;
   font-weight: 700;
   font-family: "Audiowide", sans-serif;
+  animation-name: logo-fade;
+  animation-duration: 7s;
+}
+
+.logo-text:hover, .logo-image:hover {
+  animation-name: logo-fade;
+  animation-duration: 7s;
 }
 
 @media(min-width: 768px) {
