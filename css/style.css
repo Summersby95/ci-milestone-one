@@ -194,6 +194,13 @@ h1,h2,h3,h4,h5,h6 {
   border-radius: 10px;
 }
 
+@media(max-width: 992px) {
+  .carousel-div {
+    max-width: 100%;
+  }
+}
+
+
 /* Home Section */
 
 
