@@ -389,3 +389,7 @@ hr {
   color: var(--blue-text-color);
 }
 
+.form-control:hover::placeholder {
+  color: var(--yellow-text-color);
+}
+
