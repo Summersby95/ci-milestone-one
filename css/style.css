@@ -202,6 +202,13 @@ hr {
   border-radius: 10px;
 }
 
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  padding: 35px;
+  border-width: 10px;
+  border-radius: 50%;
+}
+
 @media(max-width: 992px) {
   .carousel-div {
     max-width: 100%;
