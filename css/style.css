@@ -393,3 +393,12 @@ hr {
   color: var(--yellow-text-color);
 }
 
+
+.form-button {
+  font-family: "Audiowide", sans-serif;
+  font-size: 24px;
+  text-transform: uppercase;
+  background-color: var(--light-green-bg-color);
+  color: var(--green-text-color);
+  border: 2px solid var(--green-text-color);
+}
