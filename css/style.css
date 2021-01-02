@@ -19,6 +19,10 @@
 
 /* Body background and parallax effect */
 
+html {
+  height: 100%;
+}
+
 body {
   background-image: url("../images/starry-background.png");
   background-attachment: fixed;
