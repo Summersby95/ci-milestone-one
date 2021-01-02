@@ -385,3 +385,7 @@ hr {
   margin: 12px;
 }
 
+.form-control::placeholder {
+  color: var(--blue-text-color);
+}
+
