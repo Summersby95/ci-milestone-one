@@ -177,6 +177,13 @@ h1,h2,h3,h4,h5,h6 {
   max-width: 100%;
   margin: auto;
 }
+
+.carousel-div {
+  max-height: 100%;
+  max-width: 70%;
+  margin: auto;
+  border-radius: 10px;
+}
 /* Home Section */
 
 
