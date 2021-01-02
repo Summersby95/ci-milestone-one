@@ -402,3 +402,9 @@ hr {
   color: var(--green-text-color);
   border: 2px solid var(--green-text-color);
 }
+
+.form-button:hover {
+  background-color: var(--light-red-bg-color);
+  color: var(--red-text-color);
+  border: 2px solid var(--red-text-color);
+}
