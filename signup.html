@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/6a9c92e46f.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" integrity="sha512-csw0Ma4oXCAgd/d4nTcpoEoz4nYvvnk21a8VA2h2dzhPAvjbUIK6V3si7/g/HehwdunqqW18RwCJKpD7rL67Xg==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="css/style.css">
+  <title>Knights of The Old Republic - Remaster Petition</title>
+  <script>
+    window.onload = function () {
+      var light_100_answer = document.getElementById('light_100_answer');
+      var light_75_answer = document.getElementById('light_75_answer');
+      var dark_100_answer = document.getElementById('dark_100_answer');
+      var dark_75_answer = document.getElementById('dark_75_answer');
+
+      var light_bar = document.getElementById('light-bar');
+      var dark_bar = document.getElementById('dark-bar');
+      var result_text = document.getElementById('result-text');
+
+      light_100_answer.addEventListener('click', function() {
+        light_bar.style.width = "100%";
+        dark_bar.style.width = "0%";
+        result_text.innerHTML = "'The Force will be with you. Always.' - <i>Obi Wan Kenobi</i>";
+      });
+
+      light_75_answer.addEventListener('click', function() {
+        light_bar.style.width = "75%";
+        dark_bar.style.width = "25%";
+        result_text.innerHTML = "'Do. Or do not. There is no try.' - <i>Yoda</i>";
+      });
+
+      dark_100_answer.addEventListener('click', function() {
+        light_bar.style.width = "0%";
+        dark_bar.style.width = "100%";
+        result_text.innerHTML = "'Did you ever hear the tragedy of Darth Plagueis The Wise?' - <i>Emperor Palpatine</i>";
+      });
+
+      dark_75_answer.addEventListener('click', function() {
+        light_bar.style.width = "25%";
+        dark_bar.style.width = "75%";
+        result_text.innerHTML = "'I find your lack of faith disturbing.' - <i>Darth Vader</i>";
+      });
+    }
+  </script>
+</head>
+<body>
+  <div class="parallax">
+    <header>
+      <div class="row no-gutters">
+        <div class="col hero-image light-white-background">
+          <div class="logo-image-div">
+            <img src="images/kotor-logo.png" class="img-fluid mx-auto d-block logo-image" alt="">
+          </div>
+          <div class="logo-text">
+            <h3>Remaster</h3>
+          </div>
+        </div>
+      </div>
+      <div class="row no-gutters">
+        <div class="col nav-div-outer">
+          <ul class="nav justify-content-center">
+            <li class="nav-item menu-item light-blue-background">
+              <a href="index.html" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item menu-item light-blue-background">
+              <a href="characters.html" class="nav-link">Characters</a>
+            </li>
+            <li class="nav-item menu-item light-blue-background">
+              <a href="planets.html" class="nav-link">Planets</a>
+            </li>
+            <li class="nav-item menu-item light-blue-background">
+              <a href="signup.html" class="nav-link">Sign Up</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </header>
+    <section class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12 col-md-6 col-lg-6 left-feat-side">
+          <div class="row">
+            <div class="col-md-11">
+              <div class="home-feat light-green-background">
+                <div class="row">
+                  <div class="col-sm-12 col-md-12 col-lg-8">
+                    <h2>Bastilla Shan</h2>
+                    <p>
+                      Bastilla Shan is a Human female Jedi character who
+                      helps the player character on their quest to defeat
+                      Malak. She is an extremely powerful force user who
+                      wields a double sided yellow lightsaber. Identified
+                      as a strong force user from an early age her mother
+                      gave her up to the Jedi Order, despite Bastilla not
+                      wanting to go. Since joining the Jedi Order she has
+                      been integral in the Republic's fight against the
+                      Sith Empire. A pioneer in Force abilities, she
+                      developed the Force Meditation ability which has
+                      helped sway many fight's in the Republic's Favour.
+
+                      She is key to the plot of KoTOR and her interactions
+                      with the player character will change the face of the
+                      galaxy, for better or worse.
+                    </p>
+                  </div>
+                  <div class="col-sm-12 col-md-12 col-lg-4">
+                    <img src="images/bastilla_model.png" class="img-fluid" alt="">
+                  </div>
+                </div>
+              </div>
+              <div class="home-feat light-green-background">
+                <div class="row">
+                  <div class="col-sm-12 col-md-12 col-lg-8">
+                    <h2>Carth Onasi</h2>
+                    <p>
+                      Carth Onasi, nicknamed Fleet, was a famous Human male
+                      soldier and an expert pilot born in 3994 BBY on the
+                      planet Telos IV, where he would later start a family
+                      with his wife, Morgana; they had a son they named
+                      Dustil. He served in the Republic Naval Starfighter
+                      Corps, fighting for the Galactic Republic he loved
+                      above all else in such conflicts as the Mandalorian
+                      Wars against expanding Mandalorian clans, earning
+                      several honors for his bravery during combat. During
+                      the war, Onasi served under Admiral Saul Karath, who
+                      would become his greatest ally and mentor. After the
+                      war ended, Onasi planned to leave the Navy and return
+                      to Telos to be with his family.
+
+                      Carth's struggle to reconcile his anger about the loss
+                      of his family and his hatred of the new Sith Empire that
+                      he inadvertedly helped create is central to the plot
+                      of KoToR.
+                    </p>
+                  </div>
+                  <div class="col-sm-12 col-md-12 col-lg-4">
+                    <img src="images/carth_model.png" class="img-fluid" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-1 left-lightsaber-container">
+              <img src="images/green-lightsaber.png" class="img-fluid left-lightsaber" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-6 right-feat-side">
+          <div class="row">
+            <div class="col-md-1 right-lightsaber-container">
+              <img src="images/red-lightsaber.png" class="img-fluid right-lightsaber" alt="">
+            </div>
+            <div class="col-md-11">
+              <div class="home-feat light-red-background">
+                <div class="row">
+                  <div class="col-sm-12 col-md-12 col-lg-8">
+                    <h2>Darth Malak</h2>
+                    <p>
+                      Darth Malak, Dark Lord of the Sith is a Human male Sith
+                      who rules the Sith Empire at the time of the game. Having
+                      trained as a Jedi in his youth, Alek and his close Jedi
+                      Knight friend Revan rebelled against the Jedi Order by
+                      joining the Republic in the Mandalorian Wars in the Outer
+                      Rims to the dismay of the Jedi Order.
+
+                      As the Mandalorian War waged the pair witnessed multiple
+                      atrocities and
+                    </p>
+                  </div>
+                  <div class="col-sm-12 col-md-12 col-lg-4">
+                    <img src="images/malak_model.png" class="img-fluid" alt="">
+                  </div>
+                </div>
+              </div>
+              <div class="home-feat light-red-background">
+                <div class="row">
+                  <div class="col-sm-12 col-md-12 col-lg-8">
+                    <h2>HK-47</h2>
+                    <p>
+                      HK-47 was a Hunter-Killer series assassin droid and Jedi
+                      hunter constructed by the Dark Lord of the Sith, Darth
+                      Revan, shortly after the end of the Mandalorian Wars in
+                      3960 BBY. In the wake of widespread destruction caused by
+                      the Mass Shadow Generator, a superweapon used during the
+                      final battle of that conflict, Revan was inspired to seek
+                      more subtle methods of defeating his enemies. HK-47 was
+                      sent throughout the galaxy on his missions and
+                      successfully assassinated countless targets whom Revan
+                      had deemed threats to galactic stability and peace.
+                      However, HK-47 was badly crippled and captured on a
+                      mission in Mandalorian space shortly before Revan himself
+                      was captured by the Jedi Order.
+                    </p>
+                  </div>
+                  <div class="col-sm-12 col-md-12 col-lg-4">
+                    <img src="images/hk47_model.png" class="img-fluid" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="align-question container-fluid light-blue-background">
+        <div class="question">
+          <h2>
+            As a fully trained Jedi, would you kill a room full of defenseless
+            younglings (children - novice Jedi) to gain an enormous power?
+          </h2>
+        </div>
+        <div class="row answers">
+          <div class="col-6">
+            <div id="light_100_answer" class="answer light-blue-background">
+              No, This is not the Jedi way!
+            </div>
+          </div>
+          <div class="col-6">
+            <div id="dark_100_answer" class="answer light-blue-background">
+              Yes. Power Unlimited Power!
+            </div>
+          </div>
+          <div class="col-6">
+            <div id="light_75_answer" class="answer light-blue-background">
+              Maybe, I am no Jedi.
+            </div>
+          </div>
+          <div class="col-6">
+            <div id="dark_75_answer" class="answer light-blue-background">
+              Probably, the dark side is a pathway to many abilities.
+            </div>
+          </div>
+        </div>
+        <div class="row alignments">
+          <div class="col-6 light-alignment">
+            <div class="progress justify-content-end">
+              <div id="light-bar" class="progress-bar bg-success progress-bar-striped progress-bar-animated light-side-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="col-6 dark-alignment">
+            <div class="progress">
+              <div id="dark-bar" class="progress-bar bg-danger progress-bar-striped progress-bar-animated dark-side-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+        </div>
+        <div class="result-text">
+          <h3 id="result-text">Select An Answer!</h3>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="footer light-white-background">
+        <ul class="nav justify-content-center">
+          <li class="nav-item">
+            <a href="" class="nav-link footer-link light-blue-background">
+              <i class="fab fa-facebook-square"></i>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="" class="nav-link footer-link light-blue-background">
+              <i class="fab fa-twitter-square"></i>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="" class="nav-link footer-link light-blue-background">
+              <i class="fab fa-instagram-square"></i>
+            </a>
+          </li>
+        </ul>
+        <p class="credit-text">
+          <i class="fas fa-jedi"></i> James Summersby 2020
+        </p>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
