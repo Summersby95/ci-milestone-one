@@ -381,3 +381,7 @@ hr {
   background-color: var(--yellow-text-color);
 }
 
+.form-row {
+  margin: 12px;
+}
+
