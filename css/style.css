@@ -171,6 +171,12 @@ h1,h2,h3,h4,h5,h6 {
   width: 100%;
 }
 
+.carousel-image {
+  overflow-x:visible;
+  height: 38vh;
+  max-width: 100%;
+  margin: auto;
+}
 /* Home Section */
 
 
