@@ -33,7 +33,9 @@ body {
   background-image: url("../images/dots-background.png");
   background-position: center;
   background-repeat: repeat;
+  margin: 0;
 }
+
 
 /* Background Color Classes */
 
