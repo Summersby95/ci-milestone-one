@@ -207,6 +207,11 @@ hr {
   font-size: 30px;
   margin: 0 25px 0 25px;
 }
+
+a:hover {
+  text-decoration: none;
+}
+
 /* Home Carousel */
 
 .carousel-container {
