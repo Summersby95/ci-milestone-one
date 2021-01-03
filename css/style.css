@@ -207,6 +207,7 @@ hr {
 
 .carousel-caption {
   border-radius: 10px;
+  width: 50%;
 }
 
 .carousel-control-prev-icon,
