@@ -212,6 +212,10 @@ hr {
   margin-right: auto;
   height: 10vh;
   bottom: 0;
+  overflow-y: visible;
+  padding: 0;
+}
+
 }
 
 .carousel-control-prev-icon,
