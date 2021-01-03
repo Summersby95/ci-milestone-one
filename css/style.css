@@ -236,6 +236,11 @@ hr {
     left: 0;
     right: 0;
   }
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    padding: 10px;
+    border-width: 4px;
+  }
 }
 
 
