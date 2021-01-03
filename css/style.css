@@ -197,6 +197,16 @@ hr {
   }
 }
 
+/* Alert */
+
+.alert {
+  text-align: center;
+}
+
+.alert i {
+  font-size: 30px;
+  margin: 0 25px 0 25px;
+}
 /* Home Carousel */
 
 .carousel-container {
