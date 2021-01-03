@@ -150,6 +150,16 @@ hr {
   color: var(--yellow-text-color);
 }
 
+.nav-active {
+  background-color: var(--light-yellow-bg-color);
+  border-color: var(--yellow-text-color);
+  color: var(--yellow-text-color);
+}
+
+.nav-active a {
+  color: var(--yellow-text-color);
+}
+
 .logo-text {
   height: 20%;
   text-align: center;
