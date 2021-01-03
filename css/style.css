@@ -216,6 +216,8 @@ hr {
   padding: 0;
 }
 
+.carousel-item {
+  height: 100%;
 }
 
 .carousel-control-prev-icon,
