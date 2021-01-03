@@ -355,6 +355,8 @@ hr {
 /* Characters Section */
 
 .left-lightsaber {
+  height: 100%;
+  float: right;
 }
 
 .left-lightsaber-container {
