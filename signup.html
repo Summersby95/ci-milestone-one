@@ -95,79 +95,77 @@
                 will be sent to EA!
               </h5>
             </div><hr>
-            <div class="form-row">
-              <div class="form-group col-md-6">
-                <label for="f_name"><i class="fas fa-user-edit"></i> First Name:</label>
-                <input type="text" id="f_name" class="form-control light-blue-background" required placeholder="e.g: Anakin.... or is it Vader? I forget">
+            <form action="signup.html" name="petitionForm" id="petitionForm" method="get">
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <label for="f_name"><i class="fas fa-user-edit"></i> First Name:</label>
+                  <input type="text" id="f_name" class="form-control light-blue-background yellow-hover" required placeholder="e.g: Anakin.... or is it Vader? I forget">
+                </div>
+                <div class="form-group col-md-6">
+                  <label for="l_name"><i class="fas fa-address-card"></i> Last Name:</label>
+                  <input type="text" id="l_name" class="form-control light-blue-background yellow-hover" required placeholder="e.g: Skywalker/Groundcrawler">
+                </div>
+                <div class="form-group col-md-12">
+                  <label for="email"><i class="fas fa-envelope"></i> Email Address:</label>
+                  <input type="email" id="email" class="form-control light-blue-background yellow-hover" required placeholder="e.g: binks.jarjar@senate.co.nb">
+                </div>
+                <div class="form-group col-md-12">
+                  <label for="message"><i class="fas fa-pen"></i> Message: <i>(Optional)</i></label>
+                  <textarea id="message" rows="5" class="form-control light-blue-background yellow-hover" placeholder="e.g: Remake this game, you must!"></textarea>
+                </div>
+                <div class="form-group col-md-12 d-flex justify-content-center">
+                  <button class="form-button btn" type="submit">Submit</button>
+                </div>
               </div>
-              <div class="form-group col-md-6">
-                <label for="l_name"><i class="fas fa-address-card"></i> Last Name:</label>
-                <input type="text" id="l_name" class="form-control light-blue-background" required placeholder="e.g: Skywalker/Groundcrawler">
-              </div>
-              <div class="form-group col-md-12">
-                <label for="email"><i class="fas fa-envelope"></i> Email Address:</label>
-                <input type="email" id="email" class="form-control light-blue-background" required placeholder="e.g: binks.jarjar@senate.co.nb">
-              </div>
-              <div class="form-group col-md-12">
-                <label for="message"><i class="fas fa-pen"></i> Message: <i>(Optional)</i></label>
-                <textarea id="message" rows="5" class="form-control light-blue-background" placeholder="e.g: Remake this game, you must!"></textarea>
-              </div>
-              <div class="form-group col-md-12 d-flex justify-content-center">
-                <button class="form-button btn" type="submit">Submit</button>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-12 col-md-4">
-          <div class="light-blue-background home-feat">
-            <h2>Join The Rebellion!</h2>
-
+            </form>
           </div>
         </div>
       </div>
-      <div class="align-question container-fluid light-blue-background">
-        <div class="question">
-          <h2>
-            As a fully trained Jedi, would you kill a room full of defenseless
-            younglings (children - novice Jedi) to gain an enormous power?
-          </h2>
-        </div>
-        <div class="row answers">
-          <div class="col-6">
-            <div id="light_100_answer" class="answer light-blue-background">
-              No, This is not the Jedi way!
+      <div class="align-question light-blue-background">
+        <div class="container-fluid">
+          <div class="question">
+            <h2>
+              Jabba the Hutt has frozen your best friend in carbonite and taken
+              them prisoner, what do you do?
+            </h2>
+          </div>
+          <div class="row answers">
+            <div class="col-sm-12 col-md-12 col-lg-6">
+              <div id="light_100_answer" class="answer light-blue-background yellow-hover">
+                Rescue your friend peacefully.
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-12 col-lg-6">
+              <div id="dark_100_answer" class="answer light-blue-background yellow-hover">
+                Forget them, they were holding you back!
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-12 col-lg-6">
+              <div id="light_75_answer" class="answer light-blue-background yellow-hover">
+                Rescue your friend but kill a few people along the way.
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-12 col-lg-6">
+              <div id="dark_75_answer" class="answer light-blue-background yellow-hover">
+                Kill Jabba and all his friends
+              </div>
             </div>
           </div>
-          <div class="col-6">
-            <div id="dark_100_answer" class="answer light-blue-background">
-              Yes. Power Unlimited Power!
+          <div class="row alignments">
+            <div class="col-6 light-alignment">
+              <div class="progress justify-content-end">
+                <div id="light-bar" class="progress-bar bg-success progress-bar-striped progress-bar-animated light-side-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <div class="col-6 dark-alignment">
+              <div class="progress">
+                <div id="dark-bar" class="progress-bar bg-danger progress-bar-striped progress-bar-animated dark-side-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
             </div>
           </div>
-          <div class="col-6">
-            <div id="light_75_answer" class="answer light-blue-background">
-              Maybe, I am no Jedi.
-            </div>
+          <div class="result-text">
+            <h3 id="result-text">Select An Answer!</h3>
           </div>
-          <div class="col-6">
-            <div id="dark_75_answer" class="answer light-blue-background">
-              Probably, the dark side is a pathway to many abilities.
-            </div>
-          </div>
-        </div>
-        <div class="row alignments">
-          <div class="col-6 light-alignment">
-            <div class="progress justify-content-end">
-              <div id="light-bar" class="progress-bar bg-success progress-bar-striped progress-bar-animated light-side-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-          </div>
-          <div class="col-6 dark-alignment">
-            <div class="progress">
-              <div id="dark-bar" class="progress-bar bg-danger progress-bar-striped progress-bar-animated dark-side-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-          </div>
-        </div>
-        <div class="result-text">
-          <h3 id="result-text">Select An Answer!</h3>
         </div>
       </div>
     </section>
