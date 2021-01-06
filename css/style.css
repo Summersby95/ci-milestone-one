@@ -278,13 +278,8 @@ a:hover {
 
 /* Home Section */
 
-
 .left-side {
-  /* background-color: green; */
-}
-
-.right-side {
-  /* background-color: red; */
+  padding: 0;
 }
 
 .home-feat {
