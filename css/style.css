@@ -55,22 +55,10 @@ body {
   color: var(--blue-text-color);
 }
 
-.light-blue-background:hover {
-  background-color: var(--light-yellow-bg-color);
-  border-color: var(--yellow-text-color);
-  color: var(--yellow-text-color);
-}
-
 .light-green-background {
   background-color: var(--light-green-bg-color);
   border: 2px solid var(--green-text-color);
   color: var(--green-text-color);
-}
-
-.light-green-background:hover {
-  background-color: var(--light-yellow-bg-color);
-  border-color: var(--yellow-text-color);
-  color: var(--yellow-text-color);
 }
 
 .light-red-background {
@@ -79,7 +67,7 @@ body {
   color: var(--red-text-color);
 }
 
-.light-red-background:hover {
+.yellow-hover:hover {
   background-color: var(--light-yellow-bg-color);
   border-color: var(--yellow-text-color);
   color: var(--yellow-text-color);
