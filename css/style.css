@@ -83,6 +83,17 @@ hr {
   height: 3px;
 }
 
+.section {
+  width: 70%;
+  margin: auto;
+}
+
+@media (max-width: 1200px) {
+  .section {
+    width: 100%;
+  }
+}
+
 /* Header and Nav */
 
 .hero-image {
