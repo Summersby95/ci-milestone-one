@@ -155,7 +155,7 @@ I encountered several bugs and issues when developing this site, below is a list
 * Width of page not matching width of viewport, exceeding viewport width
   * Adjust text in timeline and padding on some elements
 
-### From User Demos
+#### From User Demos
 
 * Center features taking up too much page real estate on page
   * Add width constraint on section element and margins to center
@@ -170,7 +170,7 @@ I encountered several bugs and issues when developing this site, below is a list
 * Header Image and text taking up too much real estate on screen
   * Adjust div height
 
-### From Validatiors
+#### From Validatiors
 
 * H5 element in alert not closed
   * Add closing tag
