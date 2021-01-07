@@ -306,13 +306,13 @@ a:hover {
 
 /* Home Page Timeline */
 
+
 .timeline {
+  margin: 10px 22px 10px 22px;
   padding: 5px;
   border-radius: 10px;
   position: relative;
   max-width: 100%;
-  margin: 0 auto;
-  margin-top: 10px;
 }
 
 .timeline::after {
