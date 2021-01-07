@@ -370,7 +370,7 @@ a:hover {
 
 .answer {
   margin: 10px;
-  height: 50px;
+  padding: 10px 5px 10px 5px;
   font-size: 20px;
   border-radius: 10px;
 }
