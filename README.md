@@ -176,3 +176,9 @@ I encountered several bugs and issues when developing this site, below is a list
   * Add closing tag
 * No semi-colon after attribute value in stylesheet
   * add semi-colon
+
+
+## Deployment
+
+This site was developed using the Atom text editor in conjunction with a package called *live-server* which creates a locally hosted server to preview pages during development. *Git* was used for version control and *GitHub* was used as a repository for the project.
+
