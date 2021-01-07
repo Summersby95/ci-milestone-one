@@ -64,7 +64,7 @@ This mechanic is integral to the role-playing, player choice driven ethos of the
 
 Two of the key elements of the game I wanted to portray to the users was the characters and planets that exist in the game and distinguish them by their alignment, good or bad. To achieve this, I found a green and red colour palete to represent the good and bad characters/planets respectively and used some photoshop skills to create two images, halves of the same lightsaber that would act as a divider between the two character/planet alignment sections.
 
-![Alignment Divider Example](/images/question-example.png)
+![Alignment Divider Example](/images/alignment-example.png)
 
 
 ## Features
@@ -112,4 +112,3 @@ Future Potential Features
   * Used to import fonts for use in site
 * Font Awesome
   * Used to import icons to site
-  
