@@ -104,8 +104,13 @@ Future Potential Features
 
 ### Tools and Libraries
 
+* Atom
+  * Text-editor used for development
 * Git
   * Used for version control and maintaining repository of project
+* Atom Packages/Extensions
+  * Live Server: Package used to create localhost server to preview pages during development
+  * Emmet: Syntax shortcuts that make creating elements easier
 * Bootstrap
   * CSS/JS library used for core structural layout of elements
 * Google Fonts
