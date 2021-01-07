@@ -56,8 +56,11 @@ To highlight this effect, I decided to use transparent backgrounds on my body el
 
 ![Opening Text Crawl](/images/text-crawl.jpg)
 
+One of the central gameplay mechanics of the game is player choice in both dialogue and combat, in particular the player can choose do to *good* deeds or *bad* deeds in a given scenario, the outcome of which will turn them to either the *Light* side of the Force and become a more powerful Jedi, or the *Dark* side of the Force and become a more powerful Sith.
 
+This mechanic is integral to the role-playing, player choice driven ethos of the game and something I was keen to incorporate into the site's design. As such I decided to add a question to the bottom of every page with four options. Depending on the user's decision the green and red lightsabers would change length to reflect where the player's decisions fit on this fictional morality scale, imitating how player decisions affect the story of the game.
 
+![Morality Question Example](/images/question-example.png)
 
 
 ### User Stories
