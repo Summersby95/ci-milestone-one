@@ -170,7 +170,7 @@ hr {
 
 @media(min-width: 768px) {
   .hero-image {
-    height: 30vh;
+    height: 20vh;
   }
   .logo-image {
     height: 100%;
