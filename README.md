@@ -116,3 +116,8 @@ Future Potential Features
   * Used in debugging and validating changes made as well as checking site responsiveness on various screen sizes
 
 
+## Testing
+
+HTML validation was done on all pages using the [W3C Markup Validator](https://validator.w3.org/) and CSS validation was accomplished using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Both completed without any errors. However, when validating my stylesheet I received several warnings about unknown vendor extensions referring to my root variable colour using the -- prefix. I was unable to fix this issue at the time of writing.
+
+There were a number of features and elements to test in this project.
