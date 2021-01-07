@@ -308,7 +308,7 @@ a:hover {
 
 /* Home Page Timeline */
 
-
+/* Timeline classes heavily copied from https://www.w3schools.com/HOWTO/howto_css_timeline.asp */
 .timeline {
   margin: 10px 22px 10px 22px;
   padding: 5px;
