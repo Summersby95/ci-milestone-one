@@ -164,3 +164,10 @@ I encountered several bugs and issues when developing this site, below is a list
   * Adjust margins and paddings on various elements
 * Header Image and text taking up too much real estate on screen
   * Adjust div height
+
+### From Validatiors
+
+* H5 element in alert not closed
+  * Add closing tag
+* No semi-colon after attribute value in stylesheet
+  * add semi-colon
