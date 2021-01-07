@@ -167,10 +167,6 @@ hr {
   animation-duration: 7s;
 }
 
-.logo-text:hover, .logo-image:hover {
-  animation-name: logo-fade;
-  animation-duration: 7s;
-}
 
 @media(min-width: 768px) {
   .hero-image {
