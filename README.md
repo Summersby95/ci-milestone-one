@@ -62,14 +62,9 @@ This mechanic is integral to the role-playing, player choice driven ethos of the
 
 ![Morality Question Example](/images/question-example.png)
 
+Two of the key elements of the game I wanted to portray to the users was the characters and planets that exist in the game and distinguish them by their alignment, good or bad. To achieve this, I found a green and red colour palete to represent the good and bad characters/planets respectively and used some photoshop skills to create two images, halves of the same lightsaber that would act as a divider between the two character/planet alignment sections.
 
-### User Stories
-
-#### Ciaran - KoToR player
-
-Pictures from the game. Gradient Light-Dark background. Layered pictures of Revan darkside v lightside. Light/Dark contrast on page. Pictures of Korriban, light to dark transition.
-
-Pictures of lightside/darkside planets on seperate page and light/dark characters.
+![Alignment Divider Example](/images/question-example.png)
 
 Signup page.
 
