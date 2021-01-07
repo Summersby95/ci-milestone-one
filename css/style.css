@@ -280,6 +280,10 @@ a:hover {
   padding: 0;
 }
 
+.right-side {
+  padding: 0;
+}
+
 .home-feat {
   margin: 10px;
   border-radius: 10px;
