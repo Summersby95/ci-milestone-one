@@ -149,3 +149,18 @@ I encountered several bugs and issues when developing this site, below is a list
   * Adjust carousel-caption class, increase carousel container height and move caption elements beneath images, add margin-left, margin-right, left and right attributes to carousel-caption class to center.
 * Width of page not matching width of viewport, exceeding viewport width
   * Adjust text in timeline and padding on some elements
+
+### From User Demos
+
+* Center features taking up too much page real estate on page
+  * Add width constraint on section element and margins to center
+* Text difficult to read with colour pallete
+  * Adjust background and text colours to make text more legible
+* Yellow Hover Effect Distracting
+  * Remove hover classes from background colour classes and create seperate yellow-hover class and apply to clickable elements only
+* Alignment Question answers not working
+  * Check JS function, and fix id typo that was preventing the function from working
+* Features not aligned vertically, horizontally on page
+  * Adjust margins and paddings on various elements
+* Header Image and text taking up too much real estate on screen
+  * Adjust div height
