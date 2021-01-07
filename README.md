@@ -182,3 +182,13 @@ I encountered several bugs and issues when developing this site, below is a list
 
 This site was developed using the Atom text editor in conjunction with a package called *live-server* which creates a locally hosted server to preview pages during development. *Git* was used for version control and *GitHub* was used as a repository for the project.
 
+The project was deployed was deployed on [GitHub Pages](https://pages.github.com/) using the following steps:
+
+1. Log in to GitHub using your own credentials
+2. Navigate to your repositories
+3. Navigate to the repository containing your project
+4. In the repository click on the *Settings* tab
+5. Scroll down the *Settings* page until you find the *GitHub Pages* section
+6. Under the *Source* tab, select which branch of your project you would like to deploy to *GitHub Pages*
+7. Click *Save* to confirm and your site will be deployed at the link specified
+
