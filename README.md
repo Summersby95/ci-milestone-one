@@ -6,13 +6,13 @@ Today, remasters of games are very common and there is a devote group of Star Wa
 
 ![KoToR Logo](/images/kotor-logo.png)
 
-### UX
+## UX
 
-#### Goal
+### Goal
 
 The goal of this site is to make users aware of the game series, some of it's interesting aspects, why it deserves to be remastered and to enable the users to fill in a brief form that will petition EA to remake the game.
 
-#### User Goals
+### User Goals
 
 - Find information about the game series
 - Images/art from the game
@@ -20,7 +20,7 @@ The goal of this site is to make users aware of the game series, some of it's in
 - Site should give a feel of the game series/Star Wars Universe
 
 
-#### User Stories
+### User Stories
 
 - As a user, I want to see images from the games
 - As a user, I want information about the games
@@ -28,19 +28,19 @@ The goal of this site is to make users aware of the game series, some of it's in
 - As a user, I want to get a feel for the game
 
 
-#### Site Owner Goals
+### Site Owner Goals
 
 - As the site owner, I want the site to have a theme consistent with the game series and Star Wars franchise as a whole.
 - As the site owner, I want to entice visitors into wanting to play this game and help get it remastered by signing the petition.
 
-#### Wireframes
+### Wireframes
 
 [Click here to view wireframes.](/wireframes/kotor_site_wireframse.pdf)
 
-#### Design Choices
+### Design Choices
 ---
 
-For this project I wanted the font and colours to replicate the colours and fonts found in the game. Below you can see an image from a dialogue interaction in the game. As you can see the text is coloured blue, with the highlighted option coloured yellow. I used [HTML Color Codes](https://html-color-codes.info/colors-from-image/) to upload a picture of the games dialogue and figure out the exact colours used.
+For this project I wanted the font and colours to replicate the colours and fonts found in the game. Below you can see an image from a dialogue interaction in the game. As you can see the text is coloured blue, with the highlighted option coloured yellow. I used [HTML Color Codes](https://html-color-codes.info/colors-from-image/) to upload a picture of the games dialogue and figure out the exact colours used. Having found my colours
 
 
 
