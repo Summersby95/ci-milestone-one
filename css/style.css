@@ -244,6 +244,8 @@ a:hover {
   overflow-y: visible;
   padding: 0;
   padding-top: 10px;
+  left: 0;
+  right: 0;
 }
 
 .carousel-item {
