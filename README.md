@@ -134,3 +134,18 @@ There were a number of features and elements to test in this project.
   * The alignment question feature at the bottom of every page was a feature not in the original design or wireframes of the site, however, when the thought occurred to me to add it, it seemed like a no-brainer given the importance of player choice in the game as well as the site. I also felt it would improve user engagement and encourage further interactivity with the site. While the basic layout for the site was not difficult to implement through the use of standard *Bootstrap* elements, figuring out how to get the answers to trigger a response in the progress bars was quite difficult. I initially envisioned using a CSS hover or active pseudo class to trigger a width change on the progress bar. However, after many unfruitful attempts I was resigned to the fact that I would have to use JavaScript to achieve the desired effect. This proved troublesome also however. I have had modest experience using JavaScript on other projects previously and, in combination with [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/components/progress/) I was eventually able to achieve the desired effect.
 
 ## Bugs
+
+I encountered several bugs and issues when developing this site, below is a list of a few and how they were solved.
+
+#### During Development
+
+* Blank space beneath footer despite nothing there
+  * Mentor suggested adding html { height: 100% } to reset, worked
+* Lightsaber dividers not wrapping to left/right of features on small screen sizes
+  * Adjusted classes on elements, discovered col-sm-x doesn't exist in Bootstrap 4, replaced with col-x to achieve desired effect
+* Answer text overflowing answer area on small devices, not becoming single list insetead of side-by-side
+  * Mentor pointed out I had put a height constraint over the parent element preventing the areas from wrapping
+* Carousel captions obscuring images, not centred under image
+  * Adjust carousel-caption class, increase carousel container height and move caption elements beneath images, add margin-left, margin-right, left and right attributes to carousel-caption class to center.
+* Width of page not matching width of viewport, exceeding viewport width
+  * Adjust text in timeline and padding on some elements
