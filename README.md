@@ -88,6 +88,28 @@ Future Potential Features
 * Videos depicting gameplay from the games
 
 
-##### Stephen - Potential User
+## Technologies Used
+---
 
-Poll, page gets lighter, darker depending on results.
+### Languages
+
+* HTML5
+  * Used for core structure and layout of pages
+* CSS3
+  * Used for styling of page elements as well as colouring, adding hover effects, adjusting dimensions of elements
+* JavaScript
+  * Short script used to change morality meter lengths depending on chosen answers. Also used by Bootstrap library
+* JQuery
+  * Used by Bootstrap CSS Library
+
+### Tools and Libraries
+
+* Git
+  * Used for version control and maintaining repository of project
+* Bootstrap
+  * CSS/JS library used for core structural layout of elements
+* Google Fonts
+  * Used to import fonts for use in site
+* Font Awesome
+  * Used to import icons to site
+  
