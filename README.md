@@ -112,3 +112,7 @@ Future Potential Features
   * Used to import fonts for use in site
 * Font Awesome
   * Used to import icons to site
+* Chrome Developer Tools
+  * Used in debugging and validating changes made as well as checking site responsiveness on various screen sizes
+
+
