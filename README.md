@@ -211,4 +211,25 @@ Alternatively if using a different IDE or text-editor, use the following *Git* c
 ```git clone https://github.com/Summersby95/ci-milestone-one.git```
 
 
-## hello world
+## Credits
+
+##### Images used on this site
+
+* Transparent Character Models - [Star Wars Galaxy of Heroes Wiki](https://wiki.swgoh.help/wiki/Main_Page)
+* More Transparent Planet/Character Models - [Star Wars Fandom Site](https://starwars.fandom.com/wiki/Main_Page)
+* Game Screenshots - [GameFront](https://www.gamefront.com/)
+* Lightsaber Divider Images - Ciaran Wheeler Dempsey *(Friend :))*
+
+
+##### Content
+
+* [W3 Schools](https://www.w3schools.com/default.asp) helped a lot with understanding a lot of CSS tricks and techniques I hadn't used before. Their articles on [CSS Animations](https://www.w3schools.com/css/css3_animations.asp), [How To - Parallax Scrolling](https://www.w3schools.com/howto/howto_css_parallax.asp) and [How To - Timeline](https://www.w3schools.com/HOWTO/howto_css_timeline.asp) were immensely helpful
+
+##### Acknowledgements
+
+* My mentor [Caleb Mbakwe](https://github.com/caleboau2012) whose constant help and guidance was key to getting this project over the finish line
+* My friends Ciaran, Nestor and Pawel for throwing ideas at me... a few of them stuck ;)
+* My work manager, Stephen Boylan, for throwing design suggestions and feedback at me, even when I didn't want to hear it, and most importantly, for allowing me to work on this on while at work ;)
+* [Byllsa](https://github.com/byIlsa) for her awesome README which helped guide this document.
+
+**Site For Educational Purposes Only**
