@@ -35,7 +35,7 @@ The goal of this site is to make users aware of the game series, some of it's in
 
 ### Wireframes
 
-[Click here to view wireframes.](/wireframes/kotor_site_wireframse.pdf)
+[Click here to view wireframes.](/wireframes/kotor_site_wireframes.pdf)
 
 ### Design Choices
 ---
@@ -49,6 +49,8 @@ To fit the theme of the game I decided normal text would have blue text and that
 Another design choice I wished to use was to incorporate the overall Star Wars theme into the site. To achieve this I decided to use a starry night background for the page, reflecting the players ability to travel around the galaxy in the game.
 
 ![Starry Background](/images/starry-background.jpg)
+
+In combination with this starry background I wanted to create a parallax effect similar to the one on the [Firewatch](https://www.firewatchgame.com/) video game website. I thought this was a beautiful effect and I decided to attempt creating a similar illusion on my site by using a static background night sky and a transparent foreground with *stars* which move follow the scroll behaviour.
 
 
 
