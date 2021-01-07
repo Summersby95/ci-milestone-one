@@ -42,7 +42,7 @@ The goal of this site is to make users aware of the game series, some of it's in
 
 For this project I wanted the font and colours to replicate the colours and fonts found in the game. Below you can see an image from a dialogue interaction in the game. As you can see the text is coloured blue, with the highlighted option coloured yellow. I used [HTML Color Codes](https://html-color-codes.info/colors-from-image/) to upload a picture of the games dialogue and figure out the exact colours used.
 
-![Dialogue Example](/images/dialogue_example.jpg)
+![Dialogue Example](/images/dialogue-example.jpg)
 
 To fit the theme of the game I decided normal text would have blue text and that clickable elements would use the yellow font colour when hovered over.
 
