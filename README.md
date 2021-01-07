@@ -66,16 +66,20 @@ Two of the key elements of the game I wanted to portray to the users was the cha
 
 ![Alignment Divider Example](/images/question-example.png)
 
-Signup page.
 
-Scrolling animation?
+## Features
+---
 
-Lightsaber divider one side red/dark other blue/white and reasons for and against remaster.
+Current Features
 
-Force persuade text
-
-
-#### Nestor - KoToR player
+* Navigation bar that allows users to navigate site easily
+* Carousel highlighting different elements of the game with clickable captions to take users to more information about it
+* Parallax background that gives illusion of night sky when scrolling, immersing player in the Star Wars theme
+* Timeline highlighting when *Knights of the Old Republic* takes place in the Star Wars canon
+* Dynamic lightsaber divider on characters and planets pages
+* Morality questions at bottom of every page to further engage users in game experience
+* Form to submit petition to get the game remastered available to users
+* *Call to Action* at top of pages to immediately direct users to petition form
 
 Logo of the game, characters background. Concept art.
 
