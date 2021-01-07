@@ -50,7 +50,13 @@ Another design choice I wished to use was to incorporate the overall Star Wars t
 
 ![Starry Background](/images/starry-background.jpg)
 
-In combination with this starry background I wanted to create a parallax effect similar to the one on the [Firewatch](https://www.firewatchgame.com/) video game website. I thought this was a beautiful effect and I decided to attempt creating a similar illusion on my site by using a static background night sky and a transparent foreground with *stars* which move follow the scroll behaviour.
+In combination with this starry background I wanted to create a parallax effect similar to the one on the [Firewatch](https://www.firewatchgame.com/) video game website. I thought this was a beautiful effect and I decided to attempt creating a similar illusion on my site by using a static background night sky and a transparent foreground with *stars* which follow the scroll behaviour thereby imitating the night sky.
+
+To highlight this effect, I decided to use transparent backgrounds on my body elements, which also gives the illusion of the text floating in the sky like the infamous Star Wars text crawl used to set the opening stage in movies.
+
+![Opening Text Crawl](/images/text-crawl.jpg)
+
+
 
 
 
