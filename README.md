@@ -81,9 +81,11 @@ Current Features
 * Form to submit petition to get the game remastered available to users
 * *Call to Action* at top of pages to immediately direct users to petition form
 
-Logo of the game, characters background. Concept art.
+Future Potential Features
 
-Dialog text style.
+* Dynamic lightsaber divider movement based on answers submitted by users on site. Specifically, the divider will grow brighter/adjust position depending on the proportion of people who chose light versus dark side answers
+* More character and planet features
+* Videos depicting gameplay from the games
 
 
 ##### Stephen - Potential User
