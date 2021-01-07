@@ -192,3 +192,23 @@ The project was deployed was deployed on [GitHub Pages](https://pages.github.com
 6. Under the *Source* tab, select which branch of your project you would like to deploy to *GitHub Pages*
 7. Click *Save* to confirm and your site will be deployed at the link specified
 
+## Running this Project Locally
+
+To clone this repository to run locally or edit yourself using *Atom*
+
+1. Open this repository
+2. Click on the *Code* tab at the top of the repository
+3. In the pop-up window click the *HTTPS* tab and copy the url presented in the window
+4. Open *Atom* and hold down the *Ctrl, Shift + P* buttons at once
+5. Type in *clone*
+6. Click on the *GitHub: Clone* option
+7. In the *Copy From:* field in the window that opens, paste the url you copied from *GitHub*
+8. Choose the directory you wish the clone to be stored on your machine
+9. Edit, change, create to your hearts content!
+
+Alternatively if using a different IDE or text-editor, use the following *Git* command to clone the repository
+
+```git clone https://github.com/Summersby95/ci-milestone-one.git```
+
+
+## hello world
