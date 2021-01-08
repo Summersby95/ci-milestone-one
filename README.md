@@ -209,6 +209,46 @@ I encountered several bugs and issues when developing this site, below is a list
 * No semi-colon after attribute value in stylesheet
   * add semi-colon
 
+## Finished Site/Reflections
+
+
+I would like to place my reflections and final thoughts as I wrap this project up. Overall, I am pretty happy with the finished project and believe it fills the requirements I set out for it.
+
+### Home Page
+
+![Home Page Preview](/images/home-page-preview.png)
+
+I am happy that I was able to achieve the parallax starry sky effect that I sought to create though I would have like to possibly add a few more layers and make it more dramatic. I feel it fits the theme of the site very well and makes it clear on first glance what the site is about.
+
+The *Call to Action* alert element immediately directs the users to the petition form. The carousel element beneath it shows interesting aspects from the game and to entice the user and links to where they can find more information about them.
+
+![Home Page Lower Preview](/images/home-page-lower-preview.png)
+
+The features beneath the carousel clearly explain the what the game is to an unfamiliar new user and why the game needs to be remastered. The timeline to the side helps the users place the game in reference to the Star Wars movies. I would have liked to adjust the timeline and make it look a bit nicer and add more event markers but I ultimately ran out of time to make this happen.
+
+![Alignment Question/Footer Preview](/images/footer-preview.png)
+
+The alignment question and it's functionality work as intended and fit the theme of the game and site very well and promote user engagement. If I had more time, I would have like to link the site to a database where I could store user responses and show graphics showing what other users voted.
+
+The footer is clean and minimal. I would have liked to add more content here or be a bit more creative with this section.
+
+### Characters/Planets Page
+
+![Character Page Preview](/images/characters-page-preview.png)
+
+The lightsaber divider and theme for the characters and planets pages work well and I am happy I was able to create the effect I wanted. It also wraps on mobile very well and looks very well in my opinion.
+
+![Mobile Character Page Preview](/images/characters-page-preview-mobile.png)
+
+If I had more time I would have like to add more features of different characters and planets.
+
+### Petition Page
+
+![Petition Page Preview](/images/petition-page-preview.png)
+
+The petition form is clean, functional, funny and most importantly short which fulfils all the requirements I had for it. Given more time I would have liked to add a few images either side of the form  to decorate the page a bit more. Overall though I am happy with it.
+
+
 
 ## Deployment
 
