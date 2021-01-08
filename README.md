@@ -35,9 +35,6 @@ The goal of this site is to make users aware of the game series, some of it's in
 - As the site owner, I want the site to have a theme consistent with the game series and Star Wars franchise as a whole.
 - As the site owner, I want to entice visitors into wanting to play this game and help get it remastered by signing the petition.
 
-### Wireframes
-
-[Click here to view wireframes.](/wireframes/kotor_site_wireframes.pdf)
 
 ### Design Choices
 ---
@@ -68,6 +65,39 @@ Two of the key elements of the game I wanted to portray to the users was the cha
 
 ![Alignment Divider Example](/images/alignment-example.png)
 
+### Wireframes
+---
+
+[Click here to view wireframes.](/wireframes/kotor_site_wireframes.pdf)
+
+When drawing up wireframes for the site, I felt the best way to immediately convey to a new user the purpose of the site was to have the game logo at the top of the page with the text *Remaster* beneath it. I also felt the navigation bar should appear centred in the screen beneath the logo as opposed to one side which would look out of place.
+
+
+#### Home Page
+
+Beneath the header, logo image and navbar I decided to place a call to action with a picture that would immediately direct to the petition sign up page when clicked. I felt these elements combined with the header logo and navbar would make it immediately clear to a new user about the sites content.
+
+Having finished the top of the page, I felt it was important to explain a bit about the game and why it deserves to be remastered. I felt this information was important to keep on the home page and not hidden on a different page.
+
+I also decided to place a timeline on the home page that will help users familiar with the Star Wars Universe but unfamiliar with the game understand the point in time that the game takes place in reference to other Star Wars events.
+
+![Home Page Wireframe](/images/wireframe-home.png)
+
+#### Characters/Planets Pages
+
+One of the user stories was *'As a user, I want information about the game'* and I felt that describing the various interesting characters the player has an opportunity to interact with and the locations they have can visit in the game was a good way to fulfil this requirement and also garner interest in the user to sign the petition to get it remastered.
+
+On these pages I wanted to use the lightsaber divider idea which I explained above. I felt it was a good way to convey to users the difference between the characters and their respective alignments.
+
+![Characters Page Wireframe](/images/wireframe-characters.png)
+
+#### Petition Form Page
+
+I wanted the petition page to be clean and simply contain the petition form itself and possibly a few images with the same light versus dark theme.
+
+I also wanted the form to contain as few fields as possible to not discourage users from signing it.
+
+![Petition Page Wireframe](/images/wireframe-petition.png)
 
 ## Features
 ---
