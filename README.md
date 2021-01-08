@@ -4,7 +4,7 @@ _Knights of the Old Republic_ was a landmark game released in 2003 that changed 
 
 While the game was revolutionary for it's time, it's graphics and core gameplay mechanics have aged poorly which tends to dissuade new players from experiencing and old players from revisiting this masterpiece.
 
-Today, remasters of games are very common and there is a devote group of Star Wars game fans who are dying for _Knights of the Old Republic_ games to get a remaster. The goal of this project is to garner support and interest in the game and provide a method and resource for users to submit their thoughts to EA, the company who own the right's to the Star Wars game franchise.
+Today, remasters of games are very common and there is a devote group of Star Wars game fans who are dying for _Knights of the Old Republic_ game to get a remaster. The goal of this project is to garner support and interest in the game and provide a method and resource for users to submit their thoughts to EA, the company who own the right's to the Star Wars game franchise.
 
 ![KoToR Logo](/images/kotor-logo.png)
 
@@ -24,8 +24,8 @@ The goal of this site is to make users aware of the game series, some of it's in
 
 ### User Stories
 
-- As a user, I want to see images from the games
-- As a user, I want information about the games
+- As a user, I want to see images from the game
+- As a user, I want information about the game
 - As a user, I want to see how the game relates to other Star Wars properties
 - As a user, I want to get a feel for the game
 
@@ -39,7 +39,7 @@ The goal of this site is to make users aware of the game series, some of it's in
 ### Design Choices
 ---
 
-For this project I wanted the font and colours to replicate the colours and fonts found in the game. Below you can see an image from a dialogue interaction in the game. As you can see the text is coloured blue, with the highlighted option coloured yellow. I used [HTML Color Codes](https://html-color-codes.info/colors-from-image/) to upload a picture of the games dialogue and figure out the exact colours used.
+For this project I wanted the font and colours to replicate the colours and fonts found in the game. Below you can see an image from a dialogue interaction in the game. As you can see the text is coloured blue, with the highlighted option coloured yellow. I used [HTML Color Codes](https://html-color-codes.info/colors-from-image/) to upload a picture of the game's dialogue and figure out the exact colours used.
 
 ![Dialogue Example](/images/dialogue-example.jpg)
 
@@ -117,7 +117,7 @@ Future Potential Features
 
 * Dynamic lightsaber divider movement based on answers submitted by users on site. Specifically, the divider will grow brighter/adjust position depending on the proportion of people who chose light versus dark side answers
 * More character and planet features
-* Videos depicting gameplay from the games
+* Videos depicting gameplay from the game
 * Enhanced Parallax Effect, additional layers moving at different speeds
 
 
