@@ -255,7 +255,7 @@ Alternatively if using a different IDE or text-editor, use the following *Git* c
 
 ##### Content
 
-* [W3 Schools](https://www.w3schools.com/default.asp) helped a lot with understanding a lot of CSS tricks and techniques I hadn't used before. Their articles on [CSS Animations](https://www.w3schools.com/css/css3_animations.asp), [How To - Parallax Scrolling](https://www.w3schools.com/howto/howto_css_parallax.asp) and [How To - Timeline](https://www.w3schools.com/HOWTO/howto_css_timeline.asp) were immensely helpful
+* [W3 Schools](https://www.w3schools.com/default.asp) helped a lot with understanding a lot of CSS tricks and techniques I hadn't used before. Their articles on [CSS Animations](https://www.w3schools.com/css/css3_animations.asp), [How To - Parallax Scrolling](https://www.w3schools.com/howto/howto_css_parallax.asp) and [How To - Timeline](https://www.w3schools.com/HOWTO/howto_css_timeline.asp) were immensely helpful. Also their [ARIA in HTML](https://www.w3.org/TR/html-aria/) article was very helpful in ensuring my site met accessibility requirements.
 
 ##### Acknowledgements
 
