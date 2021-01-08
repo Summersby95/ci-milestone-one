@@ -1,8 +1,10 @@
 # Star Wars Knights of the Old Republic Petition Page
 
-The goal of this project is to provide a __Call to Arms__ for a Star Wars game series, _Knights of the Old Republic_, a series developed in the early 2000's that was then cancelled.
+_Knights of the Old Republic_ was a landmark game released in 2003 that changed the face of modern role playing gaming forever. It's revolutionary combat mechanics, interesting characters, engaging story and ground-breaking player agency are still felt today in the games it has helped inspire.
 
-Today, remasters of games are very common and there is a devote group of Star Wars game fans who are dying for the two _Knights of the Old Republic_ games to get a remaster. The goal of this project is to rally this _cult's_ support and provide a form where they can petition EA, the company who own the right's to the Star Wars game franchise, to develop a remaster.
+While the game was revolutionary for it's time, it's graphics and core gameplay mechanics have aged poorly which tends to dissuade new players from experiencing and old players from revisiting this masterpiece.
+
+Today, remasters of games are very common and there is a devote group of Star Wars game fans who are dying for _Knights of the Old Republic_ games to get a remaster. The goal of this project is to garner support and interest in the game and provide a method and resource for users to submit their thoughts to EA, the company who own the right's to the Star Wars game franchise.
 
 ![KoToR Logo](/images/kotor-logo.png)
 
